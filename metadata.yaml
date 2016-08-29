@@ -1,0 +1,28 @@
+_repo: Sydney-Smith_12994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, George William Erskine
+    alias: Russell, G. W. E. (George William Erskine)
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '4061'
+    url: http://www.gutenberg.org/2009/agents/4061
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Erskine_Russell
+description: ''
+gutenberg_issued: '2004-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- England -- Biography'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Smith, Sydney, 1771-1845'
+- !lcc 'PR'
+- GITenberg
+title: Sydney Smith
+url: http://www.gutenberg.org/ebooks/12994
